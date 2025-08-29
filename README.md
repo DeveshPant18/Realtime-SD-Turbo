@@ -1,4 +1,4 @@
-# ⚡ Real-Time Image Generation with SD-Turbo
+# ⚡ Live Diffusion Studio
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue.svg) ![PyTorch](https://img.shields.io/badge/PyTorch-2.5-orange.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
